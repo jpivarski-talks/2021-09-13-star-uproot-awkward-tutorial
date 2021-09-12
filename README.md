@@ -1,6 +1,6 @@
 # 2021-09-13-star-uproot-awkward-tutorial
 
-Tutorials for the STAR Uproot/Awkward Array tutorial presented on September 13, 2021. <!-- FIXME: add a link to the Zoom info. -->
+Tutorials for the STAR Scikit-HEP tutorial presented on September 13, 2021. See [collaboration meeting website](https://drupal.star.bnl.gov/STAR/meetings/star-collaboration-meeting-september-2021/juniors-day) for the Zoom link if you have access.
 
 ## How to participate
 
@@ -15,6 +15,16 @@ The preferred way to run these notebooks is through a public cloud service calle
 </p>
 
 Note that Binder may take a minute or two to start up, and it may need to be reloaded if left idle for too long.
+
+**On the day of the tutorial,** I'll be responding to questions on Sli.do:
+
+<p align="center">
+  <a href="https://app.sli.do/event/ctlfn7sm">
+    <img src="slido-QR-code.png" alt="https://slido.com/158442" height="40">
+  </a>
+</p>
+
+No login/registration is needed; just click through and ask questions, anonymously if you want. Questions asked in Zoom chat might be missed, because I'll be sharing my screen.
 
 ## Running everything on your own computer
 
