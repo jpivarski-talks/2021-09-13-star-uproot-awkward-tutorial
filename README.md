@@ -9,7 +9,7 @@ Run the JupyterLab code with us and work on the exercises in the last section in
 The preferred way to run these notebooks is through a public cloud service called Binder:
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2021-09-13-star-uproot-awkward-tutorial/HEAD?urlpath=lab/tree/tutorial.ipynb" target="_blank">
+  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2021-09-13-star-uproot-awkward-tutorial/HEAD?urlpath=lab/tree/tutorial.ipynb" target="_blank" rel="noopener">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" width="200">
   </a>
 </p>
@@ -19,7 +19,7 @@ Note that Binder may take a minute or two to start up, and it may need to be rel
 **On the day of the tutorial,** I'll be responding to questions on Sli.do:
 
 <p align="center">
-  <a href="https://app.sli.do/event/ctlfn7sm" target="_blank">
+  <a href="https://app.sli.do/event/ctlfn7sm" target="_blank" rel="noopener">
     <img src="slido-QR-code.png" alt="https://slido.com/158442" width="400">
   </a>
 </p>
