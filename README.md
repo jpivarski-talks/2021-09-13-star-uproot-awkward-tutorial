@@ -10,7 +10,7 @@ The preferred way to run these notebooks is through a public cloud service calle
 
 <p align="center">
   <a href="https://mybinder.org/v2/gh/jpivarski-talks/2021-09-13-star-uproot-awkward-tutorial/HEAD?urlpath=lab/tree/tutorial.ipynb">
-    <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
+    <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" width="200">
   </a>
 </p>
 
@@ -20,11 +20,11 @@ Note that Binder may take a minute or two to start up, and it may need to be rel
 
 <p align="center">
   <a href="https://app.sli.do/event/ctlfn7sm">
-    <img src="slido-QR-code.png" alt="https://slido.com/158442" height="40">
+    <img src="slido-QR-code.png" alt="https://slido.com/158442" width="400">
   </a>
 </p>
 
-No login/registration is needed; just click through and ask questions, anonymously if you want. Questions asked in Zoom chat might be missed, because I'll be sharing my screen.
+There is no login/registration; just click through and ask questions, anonymously if you want. Questions asked in Zoom chat might be missed, because I'll be sharing my screen.
 
 ## Running everything on your own computer
 
