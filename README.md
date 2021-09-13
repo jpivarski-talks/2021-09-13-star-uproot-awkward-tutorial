@@ -9,7 +9,7 @@ Run the JupyterLab code with us and work on the exercises in the last section in
 The preferred way to run the notebook ([tutorial.ipynb](tutorial.ipynb)) is through a public cloud service called Binder:
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2021-09-13-star-uproot-awkward-tutorial/HEAD?urlpath=lab/tree/tutorial.ipynb">
+  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2021-09-13-star-uproot-awkward-tutorial/v1.0?urlpath=lab/tree/tutorial.ipynb">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" width="200">
   </a>
 </p>
