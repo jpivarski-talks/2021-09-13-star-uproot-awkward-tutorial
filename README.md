@@ -2,6 +2,13 @@
 
 Tutorials for the STAR Scikit-HEP tutorial presented on September 13, 2021. See [collaboration meeting website](https://drupal.star.bnl.gov/STAR/meetings/star-collaboration-meeting-september-2021/juniors-day) for the Zoom link if you have access.
 
+> [!NOTE]
+> The file `https://pivarski-princeton.s3.us-east-1.amazonaws.com/pythia_ppZee_run17emb.picoDst.root`, needed for the exercises, has been deleted. It is now [hosted on Zenodo](https://zenodo.org/records/21777191); download it with
+>
+> ```bash
+> wget 'https://zenodo.org/records/21777191/files/pythia_ppZee_run17emb.picoDst.root?download=1' -O pythia_ppZee_run17emb.picoDst.root
+> ```
+
 ## How to participate
 
 Run the JupyterLab code with us and work on the exercises in the last section in small groups on Zoom.
